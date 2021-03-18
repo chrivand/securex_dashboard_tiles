@@ -1,5 +1,7 @@
 # Sample script to work with SecureX Dashboard API
-This is a sample script that shows the art of possible with the SecureX Dashboard API. It is meant for people who would like to create custom reports based on the SecureX dashboard tile data. This can be handy for executive reports and customer reports of Managed Security Services Partners (MSSP) for example.
+This is a sample script that shows the art of possible with the SecureX Dashboard API. It is meant as a sample for people who would like to create custom reports based on the SecureX dashboard tile data. This can be handy for executive reports and customer reports of Managed Security Services Partners (MSSP) for example.
+
+> **Note:** this is far from complete, but it merely shows how the Cisco SecureX Dashboard API works. If you make any progress with this sample, please let me know or submit a pull request.
 
 ## Overview
 1. The script leverages the [SecureX Dashboard API](https://visibility.amp.cisco.com/iroh/iroh-dashboard/index.html).
